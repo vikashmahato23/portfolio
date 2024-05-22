@@ -42,7 +42,13 @@ const Data = [
     desc: "Experience",
     src: "/experience",
   },
-
+  {
+    label: "Contact",
+    value: "Contact",
+    icon:Mail,
+    desc: "Contact",
+    src: "/contact",
+  },
 ];
 
 export default function Navigation() {

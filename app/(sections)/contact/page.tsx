@@ -20,10 +20,10 @@ export default function page() {
       setIsSubmitting(true);
       await emailjs
         .sendForm(
-          "service_ldx72vg",
-          "template_tionfoh",
+          "service_k5pc6s8",
+          "template_sppclel",
           e.target,
-          "4i6NhRQVTAgwoBcc9"
+          "isvh0FYFC_ayJbPxP"
         )
         .then(() => {
           toast.success("Email Sent Successfully");
