@@ -1,5 +1,6 @@
 export const ProjectData = [
   {
+    logo:"/find.png",
     title: "Find Your Job",
     description:
       "A MERN stack application where users can search for jobs and apply for them.",
@@ -8,6 +9,7 @@ export const ProjectData = [
     github: "https://github.com/vikashmahato23/findyourjob",
   },
   {
+    logo:"/ai.png",
     title: "AI Article Summariser",
     description:
       "An AI article summariser that uses an external API to summarize articles.",

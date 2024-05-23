@@ -34,7 +34,7 @@ export default function Home() {
             </Button>
           </Link>
           <Link
-            href="https://drive.google.com/drive/folders/1c0ReLLa6QNi9yQBWJY2Y8YKPADAZ6JBk"
+            href="https://drive.google.com/file/d/1hpuigPCFQYxtWSeSqkBB5UOlLYbEmJPS/view?usp=drivesdk"
             target="_blank"
           >
             <Button variant="secondary" className="flex rounded-full gap-2 items-center">
